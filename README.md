@@ -26,5 +26,5 @@ fast.</p>
 </ul>
 
 <h2>BLOCK DIAGRAM</h2>
-<img src="https://drive.google.com/file/d/16UhDzwXlcn-fwGvXCHGIGKjgO1zRL9LN/view?usp=sharing" align="center">
+![alt text](https://drive.google.com/file/d/16UhDzwXlcn-fwGvXCHGIGKjgO1zRL9LN/view?usp=sharing)
 
