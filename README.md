@@ -26,5 +26,4 @@ fast.</p>
 </ul>
 
 <h2>BLOCK DIAGRAM</h2>
-![alt text](https://github.com/SanthoshKR93/Examination_Portal_Using_Java/blob/master/examination/src/exam%20pics/flowdgm.png)
-
+[Imgur](https://i.imgur.com/gOgNoqY.png)
