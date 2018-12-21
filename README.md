@@ -26,4 +26,4 @@ fast.</p>
 </ul>
 
 <h2>BLOCK DIAGRAM</h2>
-[Imgur](https://i.imgur.com/gOgNoqY.png)
+<img src="https://i.imgur.com/gOgNoqY.png" align="center"/>
